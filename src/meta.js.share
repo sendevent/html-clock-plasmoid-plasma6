@@ -1,0 +1,9 @@
+.pragma library
+
+var version = '2.0.0'
+var title = 'HTML Clock'
+var url = 'https://github.com/MarcinOrlowski/html-clock-plasmoid'
+var authorName = 'Marcin Orlowski'
+var authorUrl = 'http://marcinOrlowski.com/'
+var firstReleaseYear = 2020
+var updateCheckerUrl = 'https://raw.githubusercontent.com/MarcinOrlowski/html-clock-plasmoid/master/src/metadata.desktop' 
